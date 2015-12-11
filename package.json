@@ -1,0 +1,16 @@
+{
+  "name": "dexpress",
+  "description": "Get the express application depending on the environment variable 'PORT'",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/dexpress",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dexpress.git"
+  }
+}
