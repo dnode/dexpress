@@ -2,7 +2,7 @@
 
 const express = require('express');
 
-let app = express();
+const app = express();
 app.express = express;
 app.disable('x-powered-by');
 app.listen(process.env.PORT);
