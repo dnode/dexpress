@@ -1,16 +1,21 @@
 {
   "name": "dexpress",
-  "description": "Get the express application depending on the environment variable 'PORT'",
-  "version": "1.1.0",
-  "homepage": "http://github.com/dnode/dexpress",
+  "version": "2.0.0",
+  "description": "",
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "main": "src/lib.js",
-  "dependencies": {
-    "express": "^4.13.4"
+  "homepage": "http://github.com/dnode/dexpress",
+  "author": {
+    "name": "Sharaal",
+    "email": "developer@dragonprojects.de",
+    "url": "http://dragonprojects.de"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/dnode/dexpress.git"
+  },
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "dependencies": {
+    "express": "^4.14.1"
   }
 }
