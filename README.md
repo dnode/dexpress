@@ -9,5 +9,5 @@
 # Initialisation
 
 ```
-const app = require('dexpress').app;
+const app = require('dexpress')();
 ```
